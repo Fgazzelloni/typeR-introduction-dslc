@@ -26,8 +26,6 @@ The full slide deck from the **Project Club session** is available here:
 
 👉 [View the slides online](https://tinyurl.com/typer-intro)
 
-📄 [Download PDF version](docs/typeR-project-overview.pdf)
-
 The slides cover:
 
 - The live coding dilemma

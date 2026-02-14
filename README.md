@@ -91,16 +91,15 @@ During the **Project Club session**, we discuss:
 
 ## 🔗 Links
 
-GitHub repository:
-<https://github.com/Fgazzelloni/typeR>
-
-Documentation:
-<https://fgazzelloni.github.io/typeR>
+- GitHub repository: <https://github.com/Fgazzelloni/typeR>
+- Documentation: <https://fgazzelloni.github.io/typeR>
 
 
 
 ## About the Author
 
 [Federica Gazzelloni](https://federicagazzelloni.com/)
+
 *Statistician, Actuary, and R educator*
+
 **Lead Organizer** – [R-Ladies Rome](https://rladiesrome.org/) & [Rome R Users Group](https://romerusersgroup.github.io/)
